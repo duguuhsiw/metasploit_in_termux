@@ -134,8 +134,8 @@ in your payload and listener.
 ## 🙋 Author & Credits
 
 **Developed by:**  
-👤 GitHub: [Pythonds100](https://github.com/Pythonds100)  
-💬 Telegram: [@yourusername](https://t.me/yourusername) *(Optional - Replace with your actual Telegram username)*
+- 📺 YouTube: [@𝐃𝐔𝐑𝐆𝐄𝐒𝐇 𝐄𝐗𝐏𝐋𝐎𝐈𝐓𝐒](https://youtube.com/@durgeshexploits)
+- 💬 Telegram: [@𝐃𝐔𝐑𝐆𝐄𝐒𝐇 𝐄𝐗𝐏𝐋𝐎𝐈𝐓𝐒](https://t.me/ExploitsAbout)
 
 ---
 
